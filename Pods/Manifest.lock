@@ -1,0 +1,18 @@
+PODS:
+  - AMPopTip (2.1.5)
+  - EAIntroView (2.10.0):
+    - EARestrictedScrollView (~> 1.1.0)
+  - EARestrictedScrollView (1.1.0)
+
+DEPENDENCIES:
+  - AMPopTip
+  - EAIntroView
+
+SPEC CHECKSUMS:
+  AMPopTip: 32d7a89af3d9e111c535ce397b9907ecb443dcd8
+  EAIntroView: 3494b7bbd1212e3a4f7e8d16194a1b00e7b9abb2
+  EARestrictedScrollView: b0c2a3f92fb2610bb44d71c5e4893777c89e45ef
+
+PODFILE CHECKSUM: 93f1826708da7f4cc374f542cb3121f8db965ed4
+
+COCOAPODS: 1.2.0.beta.1

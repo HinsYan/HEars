@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  HEars
+
+  Created by yantommy on 16/9/15.
+  Copyright © 2016年 yantommy. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "予味HEars";
+"NSHealthUpdateUsageDescription" = "HEars需要得到您的允许，纪录您的正念数据❤️";
+

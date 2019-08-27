@@ -1,0 +1,87 @@
+/* 
+  Localizable.strings
+  HEars
+
+  Created by yantommy on 16/9/15.
+  Copyright © 2016年 yantommy. All rights reserved.
+*/
+
+"Focus failed! 😒" = "專注失敗了！😒";
+"Back to keep focus Otherwise it will failed!! ☹️" = "快回來！否則本次專注會失敗！！☹️";
+
+"Focus Completed! have a relax ♨️" = "專注完成！休息一下吧 ♨️";
+"Relax Completed! continue focus ✊" = "休息完成！繼續保持專注吧 ✊";
+
+"Focus Time" = "專注時長";
+"Break Time" = "休息時長";
+"Long Break Time" = "長休息時長";
+"Long Break Frequency" = "長休息頻率";
+
+"Focuses" = "專注";
+"Minutes" = "分鐘";
+"Mins" = "分鐘";
+
+"Language" = "語言設置";
+"About This App" = "關於我們";
+
+
+"Keep" = "繼續";
+"Start" = "開始";
+"Break" = "休息";
+"Focus Timing" = "專注中";
+"Break Timing" = "休息中";
+"Long Break Timing" = "長休息中";
+
+
+"Forest Rainy" = "森林語物";
+"Summer Night" = "仲夏之夜";
+"Ocean Tide" = "潮來潮去";
+"Sky Meditation" = "星空冥想";
+"Babbing Brook" = "高山流水";
+
+"Pull Down To Reset" = "下拉恢復默認主題";
+"Spring Rainy" = "簷落春雨";
+"Park Bird" = "林間清晨";
+"Thundering" = "雷聲大作";
+"South Wind" = "南風起";
+"Echo Chimes" = "落耳鈴";
+"Clear Chimes" = "清脆鈴聲";
+"Village Night" = "鄉村夜色";
+"Dusk Cicadas" = "絲絲蟬鳴";
+"Low Tide" = "拍岸潮汐";
+"Babbling Brook" = "流水潺潺";
+"Slient Piano" = "黑白琴鍵";
+"Inside Train" = "鐵軌聲";
+"Valley Drip" = "山澗水滴";
+"Leisure Flute" = "悠悠長笛";
+"DryLawn Fire" = "星火燎原";
+
+"HEars - Give Name" = "HEars-取名";
+"App Name" = "應用名稱";
+"App Version" = "應用版本";
+"System Version" = "系統版本";
+"Device Mode" = "設備型號";
+"can Not send Email!" = "無法發送郵件！";
+"You device are not setting your Email,please add it in Email App,or feedback in App Store by write a review." = "您的設備尚未設置郵箱，請在“郵件”應用中設置後再發送，或者通過AppStore評論發送反饋給我們。";
+
+"Done" = "好的";
+"Cancel" = "取消";
+
+"Language" = "語言設置";
+"About This App" = "關於我們";
+"SETTING" = "用戶設置";
+"Timer" = "蕃茄鐘";
+"Noise" = "白噪聲";
+
+"Welcome HEars" = "歡迎來到HEars";
+"Experience a baptism from nature" = "用心感受一場來自大自然的洗禮";
+"We need your agree with below" = "我們需要得到您允許下面的權限";
+"Notification Perssion" = "通知权限";
+"Health Perssion" = "正念权限";
+"Start HEars" = "開始感受";
+"Skip" = "跳過";
+
+"tap to pause and shake to giveup" = "單擊暫停,長按放棄";
+"adjust noise volume" = "單擊調整音量";
+
+

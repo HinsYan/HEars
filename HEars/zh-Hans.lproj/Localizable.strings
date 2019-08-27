@@ -1,0 +1,88 @@
+/* 
+  Localizable.strings
+  HEars
+
+  Created by yantommy on 16/9/15.
+  Copyright © 2016年 yantommy. All rights reserved.
+*/
+
+"Focus failed! 😒" = "专注失败了！😒";
+"Back to keep focus Otherwise it will failed!! ☹️" = "快回来！否则本次专注会失败！！☹️";
+"Focus Completed! have a relax ♨️" = "专注完成！休息一下吧 ♨️";
+"Relax Completed! continue focus ✊" = "休息完成！继续保持专注吧 ✊";
+
+"Focus Time" = "专注时长";
+"Break Time" = "休息时长";
+"Long Break Time" = "长休息时长";
+"Long Break Frequency" = "长休息频率";
+
+
+"Focuses" = "专注";
+"Minutes" = "分钟";
+"Mins" = "分钟";
+
+"Language" = "语言设置";
+"About This App" = "关于我们";
+
+
+"Keep" = "继续";
+"Start" = "开始";
+"Break" = "休息";
+"Focus Timing" = "专注中";
+"Break Timing" = "休息中";
+"Long Break Timing" = "长休息中";
+
+
+"Forest Rainy" = "森林语物";
+"Summer Night" = "仲夏之夜";
+"Ocean Tide" = "潮來潮去";
+"Sky Meditation" = "星空冥想";
+"Babbing Brook" = "高山流水";
+
+
+
+"Pull Down To Reset" = "下拉恢复默认主题";
+"Spring Rainy" = "檐落春雨";
+"Park Bird" = "林间清晨";
+"Thundering" = "雷声大作";
+"South Wind" = "南风起";
+"Echo Chimes" = "落耳铃";
+"Clear Chimes" = "清脆风铃";
+"Village Night" = "乡村夜色";
+"Dusk Cicadas" = "丝丝蝉鸣";
+"Low Tide" = "拍岸潮汐";
+"Babbling Brook" = "流水潺潺";
+"Slient Piano" = "黑白琴键";
+"Inside Train" = "铁轨声";
+"Valley Drip" = "山涧水滴";
+"Leisure Flute" = "悠悠长笛";
+"DryLawn Fire" = "星火燎原";
+
+
+"HEars - Give Name" = "HEars-取名";
+"App Name" = "应用名称";
+"App Version" = "应用版本";
+"System Version" = "系统版本";
+"Device Mode" = "设备型号";
+"can Not send Email!" = "无法发送邮件！";
+"You device are not setting your Email,please add it in Email App,or feedback in App Store by write a review." = "您的设备尚未设置邮箱，请在“邮件”应用中设置后再发送，或者通过AppStore评论发送反馈给我们。";
+
+"Done" = "好的";
+"Cancel" = "取消";
+
+"Language" = "语言设置";
+"About This App" = "关于我们";
+"SETTING" = "用户设置";
+"Timer" = "番茄钟";
+"Noise" = "白噪声";
+
+"Welcome HEars" = "欢迎来到HEars";
+"Experience a baptism from nature" = "用心感受一场来自大自然的洗礼";
+"We need your agree with below" = "我们需要您允许下面的权限";
+"Notification Perssion" = "通知权限";
+"Health Perssion" = "正念权限";
+"Start HEars" = "开始感受";
+"Skip" = "跳过";
+
+"tap to pause Or longPress to giveup" = "单击暂停,长按放弃";
+"adjust noise volume" = "单击调整音量";

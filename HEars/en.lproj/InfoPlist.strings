@@ -1,0 +1,10 @@
+/*
+  InfoPlist.strings
+  HEars
+
+  Created by yantommy on 16/9/15.
+  Copyright © 2016年 yantommy. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "HEars";
+"NSHealthUpdateUsageDescription" = "We need your perrsion to write data to your health app";

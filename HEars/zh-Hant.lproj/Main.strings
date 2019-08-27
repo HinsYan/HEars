@@ -1,0 +1,180 @@
+
+/* Class = "UILabel"; text = "4 Focus"; ObjectID = "09c-HD-rTB"; */
+//"09c-HD-rTB.text" = "4 Focus";
+
+/* Class = "UIButton"; normalTitle = "Timer"; ObjectID = "0fu-pf-boi"; */
+"0fu-pf-boi.normalTitle" = "蕃茄鐘";
+
+/* Class = "UILabel"; text = "Fusion With Music"; ObjectID = "1Da-I4-qgm"; */
+"1Da-I4-qgm.text" = "隨音樂融合";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "22Z-dt-tA7"; */
+"22Z-dt-tA7.text" = "語言";
+
+/* Class = "UILabel"; text = "4 Focus"; ObjectID = "2G1-u9-K1h"; */
+"2G1-u9-K1h.text" = "4 Focus";
+
+/* Class = "UILabel"; text = "Help us to think of a name for this app."; ObjectID = "2zE-K2-lzN"; */
+"2zE-K2-lzN.text" = "如果您有任何的問題或建議，請聯繫我們。";
+
+/* Class = "UILabel"; text = "When enabled,the Phone will be shake when you in the Immersive Mode."; ObjectID = "4ZZ-1Y-2OJ"; */
+//"4ZZ-1Y-2OJ.text" = "When enabled,the Phone will be shake when you in the Immersive Mode.";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "5X1-T8-Xiu"; */
+"5X1-T8-Xiu.text" = "開始";
+
+/* Class = "UILabel"; text = "5 Minute"; ObjectID = "6Ak-bC-PHs"; */
+"6Ak-bC-PHs.text" = "5 Minute";
+
+/* Class = "UILabel"; text = "Break Time"; ObjectID = "7cC-1h-QyD"; */
+//"7cC-1h-QyD.text" = "Break Time";
+
+/* Class = "UILabel"; text = "Feedback"; ObjectID = "9uo-Q8-fGz"; */
+"9uo-Q8-fGz.text" = "歡迎勾搭！";
+
+/* Class = "UILabel"; text = "Shake Mode"; ObjectID = "AOA-8T-ND5"; */
+"AOA-8T-ND5.text" = "搖晃模式";
+
+/* Class = "UILabel"; text = "Break Time"; ObjectID = "AOe-HS-YcH"; */
+//"AOe-HS-YcH.text" = "Break Time";
+
+/* Class = "UILabel"; text = "Have a long break when you Finished servey focuses."; ObjectID = "BWW-XI-yNQ"; */
+"BWW-XI-yNQ.text" = "完成幾次專注後，逕行一次長休息";
+
+/* Class = "UILabel"; text = "SETTINGS"; ObjectID = "Bt4-CJ-goS"; */
+"Bt4-CJ-goS.text" = "用戶設置";
+
+/* Class = "UILabel"; text = "80"; ObjectID = "CB1-Jz-2c3"; */
+"CB1-Jz-2c3.text" = "80";
+
+/* Class = "UILabel"; text = "Have a rest when you Finished one Focus."; ObjectID = "Dix-vq-pb1"; */
+"Dix-vq-pb1.text" = "完成一次專注，休息幾分鐘";
+
+/* Class = "UILabel"; text = "SEP 01 THU｜2016"; ObjectID = "EVl-Jq-LMR"; */
+"EVl-Jq-LMR.text" = "SEP 01 THU｜2016";
+
+/* Class = "UILabel"; text = "About This App"; ObjectID = "EdD-B0-dCD"; */
+"EdD-B0-dCD.text" = "關於我們";
+
+/* Class = "UILabel"; text = "Have a rest when you Finished one Focus"; ObjectID = "Eew-ta-hsA"; */
+//"Eew-ta-hsA.text" = "Have a rest when you Finished one Focus";
+
+/* Class = "UILabel"; text = "5 Minute"; ObjectID = "Gt8-vl-hOr"; */
+//"Gt8-vl-hOr.text" = "5 Minute";
+
+/* Class = "UILabel"; text = "Recommend that always open it and control each volume manually."; ObjectID = "HXx-aF-0ti"; */
+"HXx-aF-0ti.text" = "推薦總是打開它，且手動調整每種聲音。";
+
+/* Class = "UILabel"; text = "White Noise"; ObjectID = "HcN-je-5LI"; */
+"HcN-je-5LI.text" = "白噪聲";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "Hdt-NG-RX3"; */
+"Hdt-NG-RX3.text" = "English";
+
+/* Class = "UILabel"; text = "Break Mode"; ObjectID = "ILm-Q0-zdd"; */
+"ILm-Q0-zdd.text" = "休息模式";
+
+/* Class = "UIButton"; normalTitle = "Noise"; ObjectID = "Icc-Qz-LkB"; */
+"Icc-Qz-LkB.normalTitle" = "白噪聲";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "Imi-mh-1l2"; */
+"Imi-mh-1l2.text" = "English";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "J5O-ap-Pah"; */
+"J5O-ap-Pah.normalTitle" = "確定";
+
+/* Class = "UILabel"; text = "Shake the phone to Give Up when you focusing"; ObjectID = "KuN-84-tIQ"; */
+"KuN-84-tIQ.text" = "搖晃手機放棄本次專注（默認長按計時器放棄）";
+
+/* Class = "UILabel"; text = "Break Time"; ObjectID = "NM8-U1-OgE"; */
+"NM8-U1-OgE.text" = "休息時長";
+
+/* Class = "UILabel"; text = "5 Minute"; ObjectID = "PAz-en-WaB"; */
+"PAz-en-WaB.text" = "5 Minute";
+
+/* Class = "UILabel"; text = "Timer Setting"; ObjectID = "WBv-9i-2eO"; */
+"WBv-9i-2eO.text" = "番茄鐘設置";
+
+/* Class = "UILabel"; text = "When enabled,Timer can’t paused and exit the app will fouse failure."; ObjectID = "WrM-Hf-O1l"; */
+"WrM-Hf-O1l.text" = "退出應用會導致專注失敗，且專注過程中不允許放棄";
+
+/* Class = "UILabel"; text = "Long Break Mode"; ObjectID = "WtM-xG-1S0"; */
+"WtM-xG-1S0.text" = "長休息模式";
+
+/* Class = "UILabel"; text = "Min"; ObjectID = "YAx-Cw-Lrl"; */
+"YAx-Cw-Lrl.text" = "分鐘";
+
+/* Class = "UILabel"; text = "About Pomodoro"; ObjectID = "Ygt-HT-VM5"; */
+"Ygt-HT-VM5.text" = "關於蕃茄工作法";
+
+/* Class = "UILabel"; text = "Write a review"; ObjectID = "ZOp-37-wpN"; */
+"ZOp-37-wpN.text" = "給我們打Call！";
+
+/* Class = "UILabel"; text = "Long Break Frequency"; ObjectID = "ZrI-ey-FVe"; */
+"ZrI-ey-FVe.text" = "長休息頻率";
+
+/* Class = "UILabel"; text = "Choose Focus Time"; ObjectID = "bDX-g9-aOP"; */
+"bDX-g9-aOP.text" = "Choose Focus Time";
+
+/* Class = "UILabel"; text = "25 Minute"; ObjectID = "dzZ-Up-Vbl"; */
+"dzZ-Up-Vbl.text" = "25 Minute";
+
+/* Class = "UILabel"; text = "Forest Birds"; ObjectID = "gLt-gp-vcs"; */
+"gLt-gp-vcs.text" = "Forest Birds";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "hJj-um-Rev"; */
+"hJj-um-Rev.text" = "00";
+
+/* Class = "UILabel"; text = "About white noise"; ObjectID = "jOg-KY-KtU"; */
+"jOg-KY-KtU.text" = "關於白噪聲";
+
+/* Class = "UILabel"; text = "Long Break Mode"; ObjectID = "jfh-C5-Pu3"; */
+//"jfh-C5-Pu3.text" = "Long Break Mode";
+
+/* Class = "UILabel"; text = "When enabled,the Noise Will playing with the music in the background."; ObjectID = "mZQ-Yb-PJy"; */
+"mZQ-Yb-PJy.text" = "打開後，播放音樂時白噪聲會在後台繼續播放";
+
+/* Class = "UILabel"; text = "Break Mode"; ObjectID = "my1-Jc-rj8"; */
+//"my1-Jc-rj8.text" = "Break Mode";
+
+/* Class = "UILabel"; text = "Break Time"; ObjectID = "n6D-mI-Soe"; */
+"n6D-mI-Soe.text" = "休息時長";
+
+/* Class = "UILabel"; text = "Focus Time"; ObjectID = "nhi-Zy-enT"; */
+"nhi-Zy-enT.text" = "專注時長";
+
+/* Class = "UILabel"; text = "Noise Setting"; ObjectID = "oL2-Oq-TLd"; */
+"oL2-Oq-TLd.text" = "白噪聲設置";
+
+/* Class = "UILabel"; text = "Long Break Time"; ObjectID = "oSo-wT-ZJJ"; */
+"oSo-wT-ZJJ.text" = "長休息時長";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "odU-Be-U6b"; */
+"odU-Be-U6b.text" = ":";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "r8r-N6-hSQ"; */
+"r8r-N6-hSQ.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "Break Time"; ObjectID = "shx-a7-MYX"; */
+"shx-a7-MYX.text" = "休息時長";
+
+/* Class = "UILabel"; text = "Give us some advice about this app."; ObjectID = "tiI-tf-4tO"; */
+"tiI-tf-4tO.text" = "如果您喜歡HEars，請在商店給我們五星好評！";
+
+/* Class = "UILabel"; text = "Long Break Frequency"; ObjectID = "ucP-We-q4G"; */
+//"ucP-We-q4G.text" = "Long Break Frequency";
+
+/* Class = "UILabel"; text = "5 Minute"; ObjectID = "udj-CT-xUd"; */
+//"udj-CT-xUd.text" = "5 Minute";
+
+/* Class = "UILabel"; text = "Immersive Mode"; ObjectID = "vG7-6B-0xz"; */
+"vG7-6B-0xz.text" = "沈浸模式";
+
+/* Class = "UILabel"; text = "Change Language"; ObjectID = "vef-2l-2ny"; */
+"vef-2l-2ny.text" = "切換語言";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "xsU-sA-LSq"; */
+"xsU-sA-LSq.text" = "00";
+
+/* Class = "UILabel"; text = "Long Break Duration"; ObjectID = "ynd-0z-aCL"; */
+//"ynd-0z-aCL.text" = "Long Break Duration";
